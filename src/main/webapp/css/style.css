@@ -1,0 +1,13 @@
+
+.message-confirmation{
+	color: green;
+}
+
+.body  {
+	color : yellow;
+	font-family: 'Fira Code', monospace;
+}
+
+.message-erreur{
+	color: red;
+}
